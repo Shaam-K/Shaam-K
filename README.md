@@ -1,5 +1,5 @@
 
-# 🐱‍💻 Web Developr / Programming Enthusiast
+# 🐱‍💻 Web Developer / Programming Enthusiast
 
 ## My Stats:
 
