@@ -1,7 +1,7 @@
-## Enthusiast, Web Developer
+# 🐱‍💻 Web Development Hobbyist
 
----
-### My Stats:
+
+## My Stats:
 
 ![Shaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaam-K&show_icons=true&theme=tokyonight&hide_border)
 
