@@ -1,5 +1,5 @@
 
-# 🐱‍💻 Web Developer / Tech Enthusiast
+# 🐱‍💻 Aspiring Web Developer / Tech Enthusiast
 
 ## My Stats:
 
